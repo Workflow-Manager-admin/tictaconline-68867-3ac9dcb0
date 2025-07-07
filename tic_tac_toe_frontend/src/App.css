@@ -6,8 +6,22 @@
   --text-primary: #282c34;
   --text-secondary: #61dafb;
   --border-color: #e9ecef;
-  --button-bg: #007bff;
+  --button-bg: #1976D2;
   --button-text: #ffffff;
+
+  /* Tic-Tac-Toe custom theme */
+  --ttt-primary: #1976D2;
+  --ttt-secondary: #1565C0;
+  --ttt-accent: #FFC107;
+  --ttt-board-line: #1565C0;
+  --ttt-board-bg: #fff;
+  --ttt-board-cell-hover: #e3f0fd;
+  --ttt-sidebar-bg: #f8f9fa;
+  --ttt-overlay: rgba(30,50,80,0.12);
+  --ttt-control-bg: #1976D2;
+  --ttt-control-text: #fff;
+  --ttt-score-bg: #fff;
+  --ttt-score-border: #1976D2;
 }
 
 [data-theme="dark"] {
